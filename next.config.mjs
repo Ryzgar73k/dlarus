@@ -1,3 +1,4 @@
+// Example change to trigger publish
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   typescript: {
