@@ -12,7 +12,7 @@ export function Hero() {
     >
       <div className="absolute inset-0">
         <Image
-          src="/images/Bitmap (11).webp"
+          src="/images/Staff.jpg"
           alt="D'LARUS flagship storefront in bright daylight"
           fill
           priority

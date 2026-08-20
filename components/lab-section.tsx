@@ -5,7 +5,7 @@ import { Reveal } from './reveal'
 
 const GALLERY = [
   {
-    image: '/images/lab-interior.png',
+    image: '/images/Bitmap (11).webp',
     caption: 'R&D Lab & commercial workplace',
     span: 'md:col-span-2',
   },
